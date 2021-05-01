@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 19
 SUBLEVEL = 94
-EXTRAVERSION =
+EXTRAVERSION = Ashish_kernel_learning
 NAME = "People's Front"
 
 # *DOCUMENTATION*
